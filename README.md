@@ -1,2 +1,2 @@
 # Test
-Test Repo for git commands dmeonstration 
+Test Repo for git commands demeonstration 
